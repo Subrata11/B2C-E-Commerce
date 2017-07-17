@@ -8,8 +8,6 @@ Admin password: admin
 
 THANKS.
 
-Dont try to Copy..
-
 Subrata Kumer Paul.
 CSE.RU
 13015411
